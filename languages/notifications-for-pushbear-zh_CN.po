@@ -1,0 +1,84 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Notifications For PushBear\n"
+"POT-Creation-Date: 2018-11-06 23:44+0800\n"
+"PO-Revision-Date: 2018-11-06 23:44+0800\n"
+"Last-Translator: Bestony <xiqingongzi@gmail.com>\n"
+"Language-Team: Bestony <xiqingongzi@gmail.com>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: notifications-for-pushbear.php\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: admin/init.php:13
+msgid "Pushbear Introduce"
+msgstr "Pushbear 介绍"
+
+#: admin/init.php:19
+msgid "SendKey Settings"
+msgstr "SendKey 设置"
+
+#: admin/init.php:26
+msgid "SendKey"
+msgstr "SendKey"
+
+#: admin/init.php:33
+msgid "Event Introduce"
+msgstr "事件说明"
+
+#: admin/init.php:40
+msgid "User Event: Register"
+msgstr "用户事件：新用户注册"
+
+#: admin/sections.php:6 admin/sections.php:36
+msgid "Notifications For Pushbear"
+msgstr "Pushbear 消息通知"
+
+#: admin/sections.php:13
+msgid ""
+"Pushbear is a tools can send message from web to wechat User Group， you can "
+"use it to notify yourself."
+msgstr ""
+
+#: admin/sections.php:19
+msgid ""
+"Copy the SendKey From <a href=\"https://pushbear.ftqq.com/admin/#/channel"
+"\">https://pushbear.ftqq.com/admin/#/channel\n"
+"</a> ，and paste it below."
+msgstr ""
+
+#: admin/sections.php:25
+msgid "Enable The event you need."
+msgstr "根据需要，在下方开启你需要的事件通知。"
+
+#. Plugin Name of the plugin/theme
+msgid "Notifications For PushBear"
+msgstr "Pushbear 消息通知"
+
+#. Plugin URI of the plugin/theme
+msgid "https://wpstore.app/archives/notifications-for-pushbear/"
+msgstr "https://wpstore.app/archives/notifications-for-pushbear/"
+
+#. Description of the plugin/theme
+msgid ""
+"A Notifications Plugin For <a href=\"https://pushbear.ftqq.com\"> Pushbear </"
+"a>"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Bestony"
+msgstr "Bestony"
+
+#. Author URI of the plugin/theme
+msgid "https://wpstore.app/"
+msgstr "https: //wpstore.app/"
